@@ -1,0 +1,29 @@
+{
+  "name": "cypress_practice",
+  "version": "1.0.0",
+  "description": "cypress practice",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cy:run": "npx cypress run",
+    "report:open": "open-cli cypress/reports/index.html",
+    "test:report": "npm run cy:run && npm run report:open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "HoangNguyenDuc",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-commandline": "^2.18.1",
+    "chai-colors": "^1.0.1",
+    "cy-verify-downloads": "^0.1.8",
+    "cypress": "^10.4.0",
+    "cypress-mochawesome-reporter": "^3.2.2",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.1",
+    "open-cli": "^7.0.1"
+  }
+}

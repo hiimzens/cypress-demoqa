@@ -1,0 +1,30 @@
+{
+  "usernameEmail": "hoangnguyen17012000@gmail.com",
+  "password": "hoangDEMO123",
+  "oldInfo": {
+    "firstName": "Hoanggggggg",
+    "lastName": "Nguyennnnnnn",
+    "userEmail": "hoangnguyen17012000@gmail.com",
+    "username": "hoangnguyenduc17012000",
+    "location": "HCM Change",
+    "personalSite": "hoangchange.com",
+    "bio": "This is new bio",
+    "interest": "not tree",
+    "instagramUsername": "instagramchange",
+    "twitterUsername": "twitterchange",
+    "paypal": "paypalchange"
+  },
+  "newInfo": {
+    "firstName": "Hoang",
+    "lastName": "Nguyen",
+    "userEmail": "hoangnguyen17012000@gmail.com",
+    "username": "hoangnguyenduc1701",
+    "location": "HCM Original",
+    "personalSite": "hoangoriginal.com",
+    "bio": "This is original bio",
+    "interest": "tree",
+    "instagramUsername": "instagramoriginal",
+    "twitterUsername": "twitteroriginal",
+    "paypal": "paypaloriginal"
+  }
+}
